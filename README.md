@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @serkan-kara
 - 👀 I’m interested in Mobile and Web Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Flutter / Dart
+- 💞️ I’m looking to collaborate on ReactJS and C projects
 - 📫 How to reach me ...
 
 <!---
