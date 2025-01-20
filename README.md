@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serkan-kara
 - 👀 I’m interested in Mobile and Web Development
-- 🌱 I’m currently learning Python and Flutter / Dart
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ReactJS and C / C++ projects
 - 📫 How to reach me ...
 
